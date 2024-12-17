@@ -9,7 +9,7 @@ wget --no-check-certificate -c -O CN.txt https://raw.githubusercontent.com/soffc
 echo "/ip firewall address-list"
 
 for net in $(cat CN.txt) ; do
-  echo "add list=CN address=$net comment=CN"
+  echo "add list=CN address=$net comment=AS4809"
 done
 
 } > ../CN.rsc
