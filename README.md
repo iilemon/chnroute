@@ -1,6 +1,6 @@
 大陆白名单路由规则
 
-ip段信息取自 [Hackl0us](https://github.com/misakaio/chnroutes2)
+ip段信息取自 [Hackl0us](https://github.com/Hackl0us/GeoIP2-CN)
 由Github Action自动构建于此。
 
 策略路由分流的实现方法：
