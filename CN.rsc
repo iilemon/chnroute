@@ -600,7 +600,8 @@ add list=CN address=43.230.72.0/22 comment=AS4809
 add list=CN address=43.230.124.0/22 comment=AS4809
 add list=CN address=43.230.220.0/22 comment=AS4809
 add list=CN address=43.230.224.0/19 comment=AS4809
-add list=CN address=43.231.12.0/22 comment=AS4809
+add list=CN address=43.231.12.0/24 comment=AS4809
+add list=CN address=43.231.14.0/24 comment=AS4809
 add list=CN address=43.231.32.0/20 comment=AS4809
 add list=CN address=43.231.80.0/20 comment=AS4809
 add list=CN address=43.231.96.0/20 comment=AS4809
