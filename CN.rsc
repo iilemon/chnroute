@@ -6733,6 +6733,7 @@ add list=CN address=203.223.16.0/24 comment=AS4809
 add list=CN address=203.223.22.0/23 comment=AS4809
 add list=CN address=204.55.160.0/24 comment=AS4809
 add list=CN address=204.79.135.24/32 comment=AS4809
+add list=CN address=206.109.70.0/23 comment=AS4809
 add list=CN address=210.2.0.0/23 comment=AS4809
 add list=CN address=210.2.2.0/24 comment=AS4809
 add list=CN address=210.2.4.0/22 comment=AS4809
